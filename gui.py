@@ -10,7 +10,7 @@ import os
 
 def gui():
     """make the GUI version of this command that is run if no options are
-    provided on the command line"""
+    provided on the command line*"""
 
     def button_go_callback():
         """ what to do when the "Go" button is pressed """
