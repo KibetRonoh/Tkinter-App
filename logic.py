@@ -33,7 +33,7 @@ from reportlab.pdfbase.pdfmetrics import registerFontFamily
 from reportlab.pdfbase.ttfonts import TTFont
 import StringIO
 import itertools
-
+# end of imports
 
 cwd = os.getcwd()
 csv_cwd = os.path.join(cwd, "csv/" )
